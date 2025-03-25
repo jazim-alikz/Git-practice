@@ -50,6 +50,9 @@
     font-size: 18px;
     color: #555;
 }
+img {
+    width: 100%;
+}
 
 /* Footer styles */
 .footer {
