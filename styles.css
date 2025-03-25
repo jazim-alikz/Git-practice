@@ -35,3 +35,34 @@
     background-color: #575757;
     border-radius: 4px;
 }
+.content {
+    padding: 50px 20px;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+.content h1 {
+    font-size: 32px;
+    color: #333;
+}
+
+.content p {
+    font-size: 18px;
+    color: #555;
+}
+
+/* Footer styles */
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.footer p {
+    margin: 0;
+    font-size: 14px;
+}
